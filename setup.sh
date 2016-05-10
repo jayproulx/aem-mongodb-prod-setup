@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 mongod -f 1.conf
 mongo --port 50000 admin initializeusers.js
 mongo --port 50000 -p password -u siteroot admin shutdown.js

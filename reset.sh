@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 killprocs mongod
 rm -rf data1/*
 rm -rf data2/*
