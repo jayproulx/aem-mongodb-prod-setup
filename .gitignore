@@ -1,0 +1,6 @@
+.idea
+aem-replica-keyfile
+data1/*
+data2/*
+data3/*
+logs/*
